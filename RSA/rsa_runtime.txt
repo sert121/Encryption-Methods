@@ -1,0 +1,25 @@
+real    0m0.312s
+user    0m0.286s
+sys     0m0.024s
+
+
+real    0m0.884s
+user    0m0.799s
+sys     0m0.005s
+
+
+real    0m1.449s
+user    0m1.423s
+sys     0m0.020s
+
+
+real    0m2.227s
+user    0m2.204s
+sys     0m0.013s
+
+
+real    0m2.263s
+user    0m2.237s
+sys     0m0.001s
+
+Average time: 1.478s
